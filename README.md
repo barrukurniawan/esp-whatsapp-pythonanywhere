@@ -23,7 +23,7 @@ Hardware :
 
 **Getting Started :**
 1. Download dan **install driver CH340g** 
-   - go to https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip
+   - Go to https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip
    - Unzip the file and run the installer which you unzipped.
 1. **Intall Arduinio IDE**
    - available at https://www.arduino.cc/en/main/software
@@ -36,7 +36,6 @@ Hardware :
    - If you're using NodeMCU board, choose NodeMCU 1.0 or Generic ESP8266 Module, if you're using WeMos, choose WeMos.
 5. Create a new **account on Twilio** 
    - go to https://www.twilio.com/whatsapp
-   *we need to send and receive WhatsApp messages via Twilio API*
 6. You must have :
    - Twilio Account SID
    - Twilio Account AUTH TOKEN
