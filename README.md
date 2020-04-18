@@ -3,7 +3,8 @@
 
 **DISCLAIMER: This software is open source and it's for educational purposes only. It should not be used for illegal activity. The author is not responsible for its use.**
 
-**Credits:**
+**Credits :**
+
 Barru Kurniawan ( barru.kurniawan@gmail.com ) as author
 
 **Requirements :**
